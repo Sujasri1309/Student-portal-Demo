@@ -1,2 +1,2 @@
 # Student-portal-Demo
-application
+A basic student portal application to manage student profiles,courses,and assignments.
